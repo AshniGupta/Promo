@@ -1,2 +1,2 @@
 # Promo
-Brand advertisement
+Brand advertisement is important
